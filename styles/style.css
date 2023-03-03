@@ -216,23 +216,14 @@ h3 {
     font-family: 'Libre Franklin', sans-serif;
 }
 
-.mouse {
-    font-size: 30px;
-    color: #febe00;
-}
-
-.mousy {
-    font-size: 12px;
-    font-family: 'Libre Franklin', sans-serif;
-}
-
 .bigmouse {
     display: flex;
+    justify-content: space-between;
+    width: 30vw;
 }
 
-.sameer-1 {
-    position: absolute;
-    left: 250px;
+.sameer {
+    color: #febe00;
 }
 
 .pic-1 {
